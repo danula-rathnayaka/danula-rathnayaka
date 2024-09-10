@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danula Rathnayaka</h1>
-<h3 align="center">Emerging Data Scientist and a Full Stack Developer from Sri Lanka</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Undergraduate+In+Robert+Gordon+Uni.;Data+Driven;Enthusiastic+about+AI+%26+Data+Science;Focused+on+coding+solutions)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🤝 I'm looking forward to contributing to open source projects and freelance projects.<br>🌱 I’m currently reading BSc (Hons) in Artificial Intelligence and Data Science.<br>💬 Ask me about Machine Learning, Deep Learning, Front-end, and Back-end Development.<br>📫 How to reach me **danusathmin@gmail.com**
